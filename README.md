@@ -75,7 +75,7 @@ This project focuses on predicting human activities from smartphone sensor data 
 
 ---
 
-## 🏆 Exceptional Contributions
+## 🏆 Contributions
 
 - Created a clean end-to-end ML pipeline from scratch
 - Implemented and compared 3 classical algorithms with insight-focused evaluation
